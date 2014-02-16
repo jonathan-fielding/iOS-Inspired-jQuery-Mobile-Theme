@@ -1,3 +1,8 @@
-== iOS-Inspired Theme for jQuery Mobile
+iOS-Inspired Theme for jQuery Mobile
+======
 
-NOTE: The method of hard coding the back button syntax is no longer required and will in fact break.
+- Supports jQuery Mobile 1.2.0
+
+Distributed under the [MIT License](http://en.wikipedia.org/wiki/MIT_License).
+
+[View Demo](http://taitems.github.com/iOS-Inspired-jQuery-Mobile-Theme/)
